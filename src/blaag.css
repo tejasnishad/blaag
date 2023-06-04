@@ -42,7 +42,7 @@ ul, ol, p { margin-bottom: 0.5rem; }
 
 ul, ol { padding-left: 2rem; }
 
-hr { border:1px solid #ddd; }
+hr { border:1px solid black; opacity: 0.1; }
 
 img {
     width: 100%;
@@ -60,7 +60,7 @@ p {
     line-height: 1.4;
 }
 
-header {
+header, footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
